@@ -9,7 +9,7 @@ Raspberry Pi Server
   
 Virtualenv
   - Django installed
-  source yeapi/virtualenv/bin/activate
+  - source yeapi/virtualenv/bin/activate
   
 Requirements.txt
   - pip3 install -r requirements.txt

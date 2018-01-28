@@ -21,6 +21,7 @@ def parse(raw_file, delimiter):
 
 apis = parse("/home/wouter/PycharmProjects/cryptochallenge/apis.csv", ",")
 
+
 # balance information
 for x in apis:
     #Set Client and get token balances

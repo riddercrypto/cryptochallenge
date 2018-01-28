@@ -1,7 +1,5 @@
 # Bambalam
-Cryptochallenge Webserver
-
-Raspberry Pi Server
+Cryptochallenge Raspberry Pi Server
 
 Global installations:
 - Raspbian Stretch
